@@ -1,0 +1,68 @@
+'Source: Battle for the Net'
+'Text: Dear Senators and Representatives: Please support any amendment that would strike out Sections 628, 629 and 630 from the Government Appropriations. These sections would undermine the FCC's Net Neutrality rules and prevent the agency from enforcing these critical protections. It is unacceptable to use a budget bill to circumvent the FCC's open rulemaking process that millions of citizens participated in. The American people have called for strong net neutrality rules. Congress should let the FCC do its job, and not engage in unproductive partisan brinksmanship. Thank you.'
+
+'Source: Resistbot'
+'Text: Keep net neutrality. Do not kill it. Giving more power and money to ISPs is not a good idea, and supporting that idea shows a lack of integrity, common sense, and brain capacity. Happy Holidays.'
+
+'Source: Resistbot'
+"Text: Roses are red
+Violets are blue
+If you kill net neutrality
+I’ll cry quite a bit, to be frank."
+
+'Source: Resistbot'
+"Text: No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money. -Matthew 6:24. Do not succumb to greed. Keep net neutrality.""
+
+'Source: Resistbot'
+'Text: There is a sufficiency in the world for man’s need but not for man’s greed. -Gandhi. Please find it in your heart to keep the Internet open. Do not kill net neutrality.'
+
+'Source: Resistbot'
+"Text: The Internet is for the good of the American people. I will fight to protect it, just as my forefathers fought to protect my freedoms centuries ago. Keep net neutrality alive. Do not sacrifice this country’s future for short-term gain."
+
+'Source: Resistbot'
+'Text: FOR CRYING OUT LOUD, WHY ARE YOU LIKE THIS?'
+
+'Source: Electronic Frontier Foundation'
+"Text: As your constituent, I'm writing to urge you to use the Congressional Review Act to save the 2015 Open Internet Order. As you know, the FCC recently approved Chairman Ajit Pai's proposal to gut net neutrality protections. The FCC not only voted to reverse the 2015 order that treats broadband Internet service providers as common carriers under Title II of the Telecommunications Act, but also abdicated its established role in defending the open Internet altogether. That decision cannot stand. It would give major telecommunications companies an unprecedented level of control over how we use the Internet. No agency would be able to effectively protect the public from unfair practices like site blocking, throttling, and slow lanes. Large cable companies claim to support the principles of net neutrality, but without a real regulatory cop on the beat backed by the authority of Title II, those claims are meaningless. I understand that multiple members of Congress have introduced or are planning to introduce compromise net neutrality bills. But Congress has a cleaner, faster path to real net neutrality: simply restore the 2015 Open Internet Order. Once net neutrality protections are restored, legislators can discuss next steps -- but without holding Internet access protections hostage in the meantime. A free and open Internet is essential for a free society. I urge you to defend existing net neutrality protections. Protect my rights, not ISP profits."
+
+'Source: Save the Internet'
+'Text: Net Neutrality is the cornerstone of innovation, free speech and democracy on the Internet. More than 2 million Americans have expressed support for Net Neutrality at Congress and the FCC. They want control over the Internet to remain in the hands of the people who use it every day. Please stand with the public by protecting Net Neutrality once and for all.'
+
+'Source: Reddit'
+'Text: I am in support of Strong Net Neutrality backed by Title II oversight of ISPs!'
+
+'Source: Center for Individual Freedom'
+'Text: The unprecedented regulatory power the Obama Administration imposed on the internet is smothering innovation, damaging the American economy and obstructing job creation. I urge the Federal Communications Commission to end the bureaucratic regulatory overreach of the internet known as Title II and restore the bipartisan light-touch regulatory consensus that enabled the internet to flourish for more than 20 years. The plan currently under consideration at the FCC to repeal Obama’s Title II power grab is a positive step forward and will help to promote a truly free and open internet for everyone.'
+
+'Source: John Oliver'
+'Text: I support strong net neutrality backed by Title II oversight of ISPs.'
+
+'Source: John Oliver'
+'Text: I support strong Net neutrality backed by Title 2 oversight of ISPs.'
+
+'Source: John Oliver'
+"Text: I specifically support strong net neutrality, backed by Title II oversight of ISP’s."
+
+'Source: John Oliver'
+"Text: I specifically support strong Net Neutrality backed by Title 2 oversight of ISP’s."
+
+'Source: John Oliver'
+'Text: Preserve net neutrality and title 2.'
+
+'Source: Taxpayers Protection Alliance'
+"Text: As a concerned taxpayer and consumer, I am writing to urge the FCC to set the internet free and remove the inappropriate, unnecessary and overly vast regulations currently holding back the full potential of the internet. Due to the grip of the utility-style regulations imposed under the previous Commission, taxpayers have been put at risk, the threat of new fees on consumer bills still looms large, investment in internet infrastructure has not realized its full potential, innovations have gone undeveloped and unrealized, and twenty years of the appropriate level of oversight of the internet has been reversed. We must dial-back the poorly conceived application of Title II in the Open Internet Order so that American taxpayers can benefit from an unrestrained and truly open internet that scales back the unlimited power of the government, protects consumers from new taxes and encourages future investment and endless innovations."
+
+'Source: Taxpayers Protection Alliance'
+"Text: Obama’s Federal Communications Commission (FCC) forced regulations on the internet that put the government, and unaccountable bureaucrats, in control. These rules have cost taxpayers, slowed down broadband infrastructure investment, and hindered competition and choice for Americans. The time to remove the regulatory stranglehold on the internet is NOW. I urge the taxpayer-funded FCC to undo the terrible regulatory burdens that ex-FCC Chairman Tom Wheeler imposed on the internet. After 20 years, and trillions of dollars in infrastructure investment, there is no reason for the government to come in and ruin what has been a thriving tool that has changed the way we all live. Chairman Pai’s proposal to repeal Title II regulations will ensure the continued growth of a dynamic, open internet for all American consumers and taxpayers."
+
+'Source: Free Our Internet'
+"Text: Facebook and Google lied to us, and they must be stopped. I call on Congress to stand up to these out of control Silicon Valley monopolies that steal our information and censor our voices online. For years, they said they would protect our personal information, but they’ve stolen everything we do online and sold it to political campaigns and advertisers to abuse it. They’ve told us they would be a neutral platform, but have consistently banned, blocked, and censored conservatives online. Congress is preparing to vote on legislation that would exempt Facebook and Google from any obligation to protect consumers online.  I urge you and your colleagues to stand up to these Silicon Valley monopolies and oppose this measure. A vote in favor of this measure – the CRA – is a vote in favor of allowing Facebook and Google to continue blocking and censoring content, stealing our personal information, and selling it to advertisers and politicians. Instead, Congress should pass real consumer internet protection legislation to ensure that Facebook and Google – or any other company – cannot block and censor the content, exempt themselves from consumer protections, and abuse or manipulate user data."
+
+'Source: Occupy the Internet'
+"Text: I am a constituent and urge you to oppose Sen. Kay Bailey Hutchison's resolution of disapproval which would negate the FCC's Net Neutrality regulations. Net Neutrality assures that the Internet will remain an open platform whereby users have equal access to all sources of information."
+
+'Source: Open Media'
+"Text: I’m writing today because of the danger our open Internet is in. Congress must step in and use the Congressional Review Act to save our critical Net Neutrality protections, that are vital for our democracy, innovation, and free speech."
+
+
+

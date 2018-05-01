@@ -5,11 +5,18 @@ Our project report is located in the repository as a PDF. You can find all the n
 
 ### Libraries used: 
 
-*item* [NumPy](http://www.numpy.org)
-*item* [SciPy](http://scipy.org/)
-*item* [scikit-learn](http://scikit-learn.org/stable/)
-*item* [matplotlib](https://matplotlib.org)
-*item* [pandas](http://pandas.pydata.org)
-*item* [HDBSCAN](https://github.com/scikit-learn-contrib/hdbscan)
-*item* [spaCy](https://spacy.io/usage/)
+[NumPy](http://www.numpy.org)
+
+[SciPy](http://scipy.org/)
+
+[scikit-learn](http://scikit-learn.org/stable/)
+
+[matplotlib](https://matplotlib.org)
+
+[pandas](http://pandas.pydata.org)
+
+[HDBSCAN](https://github.com/scikit-learn-contrib/hdbscan)
+
+[spaCy](https://spacy.io/usage/)
+
 
